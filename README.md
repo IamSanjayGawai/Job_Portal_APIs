@@ -10,7 +10,7 @@ How to Install:
 
 Use Postman to Test APIs 
 
-EndPoints
+<h1>EndPoints</h1>
 
 Recruiter Registeration
 http://localhost:8080/codingninjas/api/user/register

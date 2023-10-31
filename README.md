@@ -8,7 +8,9 @@ How to Install:
 2.  npm install
 3.  npm start
 
-Use Postman to Test APIs
+Use Postman to Test APIs 
+
+EndPoints
 
 Recruiter Registeration
 http://localhost:8080/codingninjas/api/user/register
